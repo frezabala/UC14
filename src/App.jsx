@@ -1,6 +1,6 @@
 import React from "react";
 import CardJogador from "../src/components/CardJogador"
-import Titulo from "../src/components/Titulo";
+import Titulo from "../src/components/Titulo"
 import leoHospicio from "../src/assets/Leosenac.jpg"
 import lucasHospicio from "../src/assets/lucashospicio.jpg"
 import talita from "../src/assets/talita.jpeg"
