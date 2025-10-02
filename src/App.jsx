@@ -1,17 +1,17 @@
 import React from "react";
 import CardJogador from "../src/components/CardJogador"
 import Titulo from "../src/components/Titulo";
-import leoHospicio from "../src//assets/Leosenac.jpg"
-import lucasHospicio from "../src//assets/lucashospicio.jpg"
-import talita from "../src//assets/talita.jpeg"
-import henrique from "../src//assets/henrique.jpeg"
-import luut from "../src//assets/LuutComCabelo.png"
-import vitor from "../src//assets/vitorCabeludo.png"
-import Dalvana from "../src//assets/dalvanaCalva.png"
-import Daniel from "../src//assets/daniel.jpeg"
-import Arthur from "../src//assets/arthur.jpeg"
-import Nat from "../src//assets/nat.jpeg"
-import Leandra from "../src//assets/teletubbies.jpeg"
+import leoHospicio from "../src/assets/Leosenac.jpg"
+import lucasHospicio from "../src/assets/lucashospicio.jpg"
+import talita from "../src/assets/talita.jpeg"
+import henrique from "../src/assets/henrique.jpeg"
+import luut from "../src/assets/LuutComCabelo.png"
+import vitor from "../src/assets/vitorCabeludo.png"
+import Dalvana from "../src/assets/dalvanaCalva.png"
+import Daniel from "../src/assets/daniel.jpeg"
+import Arthur from "../src/assets/arthur.jpeg"
+import Nat from "../src/assets/nat.jpeg"
+import Leandra from "../src/assets/teletubbies.jpeg"
 
 
 
