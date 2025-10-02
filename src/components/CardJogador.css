@@ -1,0 +1,55 @@
+/* ------- CARD PRINCIPAL ------- */
+.CardJogador{
+    background: rgb(27, 27, 27);
+    color: white;
+    border: 1px solid rgb(89, 0, 255);
+    border-radius: 16px;
+    padding: 24px;
+    width: 320px;
+    transition: transform .15s ease, box-shadow .15s ease;
+}
+.CardJogador:hover{
+    transform: scale(-4px);
+    box-shadow: 10px 10px 24px rgb(80, 13, 189);
+}
+
+.cj-cabecalho{
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    margin-bottom: 14px;
+}
+
+.cj-imagem{
+    width: 90px;
+    height: 90px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 3px solid rgb(77, 20, 211);
+}
+
+.cj-info .cj-nome{
+   margin: 0;
+   font-size: 1.3rem;
+
+}
+
+.cj-etiqueta{
+
+    display: inline-block;
+    margin-top: 6px;
+    padding: 4px 12px;
+    border-radius: 999px;
+    font-size: 0.9rem;
+    background: black;
+    color: white;
+    border: 1px solid rgb(104, 0, 240);
+
+}
+
+.cj-meta{
+    display: flex;
+    justify-content: space-between;
+    font-size: 1rem;
+    margin-top: 14px;
+}
