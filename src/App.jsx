@@ -26,7 +26,7 @@ export default function App(){
    nome: "LeoSenac",
    posicao: "Atacante",
    time: "Hospicio Senac",
-   avalidacao: 9.5,
+  avaliacao: 9.5,
    imagem: leoHospicio
 },
    {
@@ -34,7 +34,7 @@ export default function App(){
    nome: "Lucas Hospicio",
    posicao: "Lateral",
    time: "Hospicio Senac",
-   avalidacao: 9.7,
+   avaliacao:9.7 ,
    imagem: lucasHospicio
 },
    {
@@ -42,7 +42,7 @@ export default function App(){
    nome: "Talita",
    posicao: "goleiro",
    time: "Hospicio Senac",
-   avalidacao: 9.1,
+  avaliacao: 9.1,
    imagem: talita
 },
    {
@@ -50,7 +50,7 @@ export default function App(){
    nome: "Henrique",
    posicao: "meia-central",
    time: "Hospicio Senac",
-   avalidacao: 9,
+   avaliacao: 9,
    imagem: henrique
 },
    {
@@ -58,7 +58,7 @@ export default function App(){
    nome: "Luut Com Cabelo",
    posicao: "Lateral-direito",
    time: "Hospicio Senac",
-   avalidacao: 8.3,
+   avaliacao: 8.3,
    imagem: luut
 },
    {
@@ -66,7 +66,7 @@ export default function App(){
    nome: "vitor Cabeludo",
    posicao: "volante",
    time: "Hospicio Senac",
-   avalidacao: 8.2,
+   avaliacao: 8.2,
    imagem: vitor
 },
    {
@@ -74,7 +74,7 @@ export default function App(){
    nome: "Dalvana Calva",
    posicao: "zagueiro",
    time: "Hospicio Senac",
-   avalidacao: 8.1,
+   avaliacao: 8.1,
    imagem: Dalvana
 },
    {
@@ -82,7 +82,7 @@ export default function App(){
    nome: "Daniel",
    posicao: "líbero",
    time: "Hospicio Senac",
-   avalidacao: 8.8,
+   avaliacao: 8.8,
    imagem: Daniel
 },
    {
@@ -90,7 +90,7 @@ export default function App(){
    nome: "Arthur",
    posicao: "Lateral-esquerdo",
    time: "Hospicio Senac",
-   avalidacao: 8.9,
+   avaliacao: 8.9,
    imagem: Arthur
 
    },
@@ -99,7 +99,7 @@ export default function App(){
    nome: "Nat",
    posicao: "Volante",
    time: "Hospicio Senac",
-   avalidacao: 9.1,
+  avaliacao: 9.1,
    imagem: Nat
 
    },
@@ -108,7 +108,7 @@ export default function App(){
    nome: "Leandra",
    posicao: "Pontas",
    time: "Hospicio Senac",
-   avalidacao: 9,
+   avaliacao: 9,
    imagem: Leandra
 
    }

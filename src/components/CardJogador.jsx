@@ -19,7 +19,7 @@ export default function CardJogador({nome, posicao, time, avaliacao,imagem}){
             {/*area de imformaçoes resumidas como tipo e avaliacao */}
             <div className="cj-meta">
                 <span><strong>Time</strong>{time}</span>
-                <span><strong>Avaliaçao</strong>{avaliacao}</span>
+                <span><strong>Avaliacao</strong>{avaliacao}</span>
 
             </div>
         </article>
